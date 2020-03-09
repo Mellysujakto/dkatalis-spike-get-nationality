@@ -19,7 +19,6 @@ Flutter Get Nationality Using Google Maps for Android
             ...
         </manifest>
 
-
 4. Add Dependencies
 
         dependencies:
